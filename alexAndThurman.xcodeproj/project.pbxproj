@@ -1,0 +1,343 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D46295F61D52B37600475B24 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D46295F51D52B37600475B24 /* main.cpp */; };
+		D46295FE1D568DEA00475B24 /* location.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D46295FC1D568DEA00475B24 /* location.cpp */; };
+		D46296011D56A20A00475B24 /* sunbrellaCorp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D46295FF1D56A20A00475B24 /* sunbrellaCorp.cpp */; };
+		D47332731D57C132006A317F /* laFitness.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D47332711D57C132006A317F /* laFitness.cpp */; };
+		D47332761D57C1F9006A317F /* libraryOfSundries.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D47332741D57C1F9006A317F /* libraryOfSundries.cpp */; };
+		D47332791D57C33F006A317F /* krinklyDarHoofsGrave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D47332771D57C33F006A317F /* krinklyDarHoofsGrave.cpp */; };
+		D473327C1D57C3BA006A317F /* mubScoutTroop205.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D473327A1D57C3BA006A317F /* mubScoutTroop205.cpp */; };
+		D473327F1D57C425006A317F /* abandonedThemePark.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D473327D1D57C425006A317F /* abandonedThemePark.cpp */; };
+		D47332821D57C47F006A317F /* skatePark.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D47332801D57C47F006A317F /* skatePark.cpp */; };
+		D47332851D57C4DC006A317F /* comicBookStore.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D47332831D57C4DC006A317F /* comicBookStore.cpp */; };
+		D473328E1D580FCC006A317F /* item.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D473328C1D580FCC006A317F /* item.cpp */; };
+		D47332911D58113D006A317F /* magicClock.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D473328F1D58113D006A317F /* magicClock.cpp */; };
+		D47332941D5811FD006A317F /* slingShotAndAgSlugs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D47332921D5811FD006A317F /* slingShotAndAgSlugs.cpp */; };
+		D47332971D581274006A317F /* earthCandyBar.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D47332951D581274006A317F /* earthCandyBar.cpp */; };
+		D473329A1D5812C3006A317F /* flashlight.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D47332981D5812C3006A317F /* flashlight.cpp */; };
+		D473329D1D581327006A317F /* rabbitsFoot.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D473329B1D581327006A317F /* rabbitsFoot.cpp */; };
+		D47332A01D581379006A317F /* schwankles.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D473329E1D581379006A317F /* schwankles.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		D46295F01D52B37600475B24 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		D46295F21D52B37600475B24 /* alexAndThurman */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = alexAndThurman; sourceTree = BUILT_PRODUCTS_DIR; };
+		D46295F51D52B37600475B24 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D46295FC1D568DEA00475B24 /* location.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = location.cpp; sourceTree = "<group>"; };
+		D46295FD1D568DEA00475B24 /* location.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = location.hpp; sourceTree = "<group>"; };
+		D46295FF1D56A20A00475B24 /* sunbrellaCorp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = sunbrellaCorp.cpp; sourceTree = "<group>"; };
+		D46296001D56A20A00475B24 /* sunbrellaCorp.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = sunbrellaCorp.hpp; sourceTree = "<group>"; };
+		D47332711D57C132006A317F /* laFitness.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = laFitness.cpp; sourceTree = "<group>"; };
+		D47332721D57C132006A317F /* laFitness.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = laFitness.hpp; sourceTree = "<group>"; };
+		D47332741D57C1F9006A317F /* libraryOfSundries.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = libraryOfSundries.cpp; sourceTree = "<group>"; };
+		D47332751D57C1F9006A317F /* libraryOfSundries.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = libraryOfSundries.hpp; sourceTree = "<group>"; };
+		D47332771D57C33F006A317F /* krinklyDarHoofsGrave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = krinklyDarHoofsGrave.cpp; sourceTree = "<group>"; };
+		D47332781D57C33F006A317F /* krinklyDarHoofsGrave.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = krinklyDarHoofsGrave.hpp; sourceTree = "<group>"; };
+		D473327A1D57C3BA006A317F /* mubScoutTroop205.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = mubScoutTroop205.cpp; sourceTree = "<group>"; };
+		D473327B1D57C3BA006A317F /* mubScoutTroop205.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = mubScoutTroop205.hpp; sourceTree = "<group>"; };
+		D473327D1D57C425006A317F /* abandonedThemePark.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = abandonedThemePark.cpp; sourceTree = "<group>"; };
+		D473327E1D57C425006A317F /* abandonedThemePark.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = abandonedThemePark.hpp; sourceTree = "<group>"; };
+		D47332801D57C47F006A317F /* skatePark.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = skatePark.cpp; sourceTree = "<group>"; };
+		D47332811D57C47F006A317F /* skatePark.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = skatePark.hpp; sourceTree = "<group>"; };
+		D47332831D57C4DC006A317F /* comicBookStore.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = comicBookStore.cpp; sourceTree = "<group>"; };
+		D47332841D57C4DC006A317F /* comicBookStore.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = comicBookStore.hpp; sourceTree = "<group>"; };
+		D473328C1D580FCC006A317F /* item.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = item.cpp; sourceTree = "<group>"; };
+		D473328D1D580FCC006A317F /* item.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = item.hpp; sourceTree = "<group>"; };
+		D473328F1D58113D006A317F /* magicClock.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = magicClock.cpp; sourceTree = "<group>"; };
+		D47332901D58113D006A317F /* magicClock.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = magicClock.hpp; sourceTree = "<group>"; };
+		D47332921D5811FD006A317F /* slingShotAndAgSlugs.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = slingShotAndAgSlugs.cpp; sourceTree = "<group>"; };
+		D47332931D5811FD006A317F /* slingShotAndAgSlugs.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = slingShotAndAgSlugs.hpp; sourceTree = "<group>"; };
+		D47332951D581274006A317F /* earthCandyBar.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = earthCandyBar.cpp; sourceTree = "<group>"; };
+		D47332961D581274006A317F /* earthCandyBar.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = earthCandyBar.hpp; sourceTree = "<group>"; };
+		D47332981D5812C3006A317F /* flashlight.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = flashlight.cpp; sourceTree = "<group>"; };
+		D47332991D5812C3006A317F /* flashlight.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = flashlight.hpp; sourceTree = "<group>"; };
+		D473329B1D581327006A317F /* rabbitsFoot.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rabbitsFoot.cpp; sourceTree = "<group>"; };
+		D473329C1D581327006A317F /* rabbitsFoot.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = rabbitsFoot.hpp; sourceTree = "<group>"; };
+		D473329E1D581379006A317F /* schwankles.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = schwankles.cpp; sourceTree = "<group>"; };
+		D473329F1D581379006A317F /* schwankles.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = schwankles.hpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D46295EF1D52B37600475B24 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D46295E91D52B37600475B24 = {
+			isa = PBXGroup;
+			children = (
+				D46295F41D52B37600475B24 /* alexAndThurman */,
+				D46295F31D52B37600475B24 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D46295F31D52B37600475B24 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D46295F21D52B37600475B24 /* alexAndThurman */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D46295F41D52B37600475B24 /* alexAndThurman */ = {
+			isa = PBXGroup;
+			children = (
+				D46295F51D52B37600475B24 /* main.cpp */,
+				D46295FC1D568DEA00475B24 /* location.cpp */,
+				D46295FD1D568DEA00475B24 /* location.hpp */,
+				D473328C1D580FCC006A317F /* item.cpp */,
+				D473328D1D580FCC006A317F /* item.hpp */,
+				D473329E1D581379006A317F /* schwankles.cpp */,
+				D473329F1D581379006A317F /* schwankles.hpp */,
+				D473329B1D581327006A317F /* rabbitsFoot.cpp */,
+				D473329C1D581327006A317F /* rabbitsFoot.hpp */,
+				D47332981D5812C3006A317F /* flashlight.cpp */,
+				D47332991D5812C3006A317F /* flashlight.hpp */,
+				D47332951D581274006A317F /* earthCandyBar.cpp */,
+				D47332961D581274006A317F /* earthCandyBar.hpp */,
+				D47332921D5811FD006A317F /* slingShotAndAgSlugs.cpp */,
+				D47332931D5811FD006A317F /* slingShotAndAgSlugs.hpp */,
+				D473328F1D58113D006A317F /* magicClock.cpp */,
+				D47332901D58113D006A317F /* magicClock.hpp */,
+				D47332831D57C4DC006A317F /* comicBookStore.cpp */,
+				D47332841D57C4DC006A317F /* comicBookStore.hpp */,
+				D47332801D57C47F006A317F /* skatePark.cpp */,
+				D47332811D57C47F006A317F /* skatePark.hpp */,
+				D473327D1D57C425006A317F /* abandonedThemePark.cpp */,
+				D473327E1D57C425006A317F /* abandonedThemePark.hpp */,
+				D473327A1D57C3BA006A317F /* mubScoutTroop205.cpp */,
+				D473327B1D57C3BA006A317F /* mubScoutTroop205.hpp */,
+				D47332771D57C33F006A317F /* krinklyDarHoofsGrave.cpp */,
+				D47332781D57C33F006A317F /* krinklyDarHoofsGrave.hpp */,
+				D47332741D57C1F9006A317F /* libraryOfSundries.cpp */,
+				D47332751D57C1F9006A317F /* libraryOfSundries.hpp */,
+				D47332711D57C132006A317F /* laFitness.cpp */,
+				D47332721D57C132006A317F /* laFitness.hpp */,
+				D46295FF1D56A20A00475B24 /* sunbrellaCorp.cpp */,
+				D46296001D56A20A00475B24 /* sunbrellaCorp.hpp */,
+			);
+			path = alexAndThurman;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D46295F11D52B37600475B24 /* alexAndThurman */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D46295F91D52B37600475B24 /* Build configuration list for PBXNativeTarget "alexAndThurman" */;
+			buildPhases = (
+				D46295EE1D52B37600475B24 /* Sources */,
+				D46295EF1D52B37600475B24 /* Frameworks */,
+				D46295F01D52B37600475B24 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = alexAndThurman;
+			productName = alexAndThurman;
+			productReference = D46295F21D52B37600475B24 /* alexAndThurman */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D46295EA1D52B37600475B24 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Drew Wolfe";
+				TargetAttributes = {
+					D46295F11D52B37600475B24 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = D46295ED1D52B37600475B24 /* Build configuration list for PBXProject "alexAndThurman" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D46295E91D52B37600475B24;
+			productRefGroup = D46295F31D52B37600475B24 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D46295F11D52B37600475B24 /* alexAndThurman */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D46295EE1D52B37600475B24 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D46296011D56A20A00475B24 /* sunbrellaCorp.cpp in Sources */,
+				D473328E1D580FCC006A317F /* item.cpp in Sources */,
+				D47332971D581274006A317F /* earthCandyBar.cpp in Sources */,
+				D46295FE1D568DEA00475B24 /* location.cpp in Sources */,
+				D47332941D5811FD006A317F /* slingShotAndAgSlugs.cpp in Sources */,
+				D47332821D57C47F006A317F /* skatePark.cpp in Sources */,
+				D47332911D58113D006A317F /* magicClock.cpp in Sources */,
+				D473327C1D57C3BA006A317F /* mubScoutTroop205.cpp in Sources */,
+				D47332A01D581379006A317F /* schwankles.cpp in Sources */,
+				D46295F61D52B37600475B24 /* main.cpp in Sources */,
+				D473327F1D57C425006A317F /* abandonedThemePark.cpp in Sources */,
+				D47332731D57C132006A317F /* laFitness.cpp in Sources */,
+				D47332791D57C33F006A317F /* krinklyDarHoofsGrave.cpp in Sources */,
+				D473329A1D5812C3006A317F /* flashlight.cpp in Sources */,
+				D47332851D57C4DC006A317F /* comicBookStore.cpp in Sources */,
+				D47332761D57C1F9006A317F /* libraryOfSundries.cpp in Sources */,
+				D473329D1D581327006A317F /* rabbitsFoot.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		D46295F71D52B37600475B24 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		D46295F81D52B37600475B24 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		D46295FA1D52B37600475B24 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D46295FB1D52B37600475B24 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D46295ED1D52B37600475B24 /* Build configuration list for PBXProject "alexAndThurman" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D46295F71D52B37600475B24 /* Debug */,
+				D46295F81D52B37600475B24 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D46295F91D52B37600475B24 /* Build configuration list for PBXNativeTarget "alexAndThurman" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D46295FA1D52B37600475B24 /* Debug */,
+				D46295FB1D52B37600475B24 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D46295EA1D52B37600475B24 /* Project object */;
+}
